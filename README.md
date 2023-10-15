@@ -13,7 +13,8 @@ npm @react-native-google-signin/google-signin install all-aboard-onboarding-rn
 You need to make another react native project with expo and connect this package to that app to test it
 
 ```sh
-yarn pack // to create a package.tgz in this directory
+// to create a package.tgz in this directory
+yarn pack
 ```
 
 Go to your Expo app (bare workflow) and use this command to link this package with the app locally
@@ -21,6 +22,8 @@ Go to your Expo app (bare workflow) and use this command to link this package wi
 ```sh
 yarn add ./path/to/package.tgz/you/just/created
 ```
+
+To commit, make sure to use this [guide](https://www.conventionalcommits.org/en/v1.0.0/) for the commit message
 
 ## Usage
 
