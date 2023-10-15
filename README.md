@@ -10,17 +10,7 @@ npm install all-aboard-onboarding-rn
 
 ## Usage
 
-```js
-import { multiply } from 'all-aboard-onboarding-rn';
-
-// ...
-
-const result = await multiply(3, 7);
-```
-
-## Contributing
-
-See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the repository and the development workflow.
+Todo
 
 ## License
 
